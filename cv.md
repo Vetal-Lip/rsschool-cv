@@ -36,3 +36,13 @@
         )
 
     }```
+
+6.  #### Experience:
+    - HTML, CSS: [The Witcher](https://preview-the-witcher.netlify.app)
+    - Quiz: [decor-quiz](https://decor-quiz.netlify.app)
+    - JavaScript: [virtual-keyboard](https://vetal-virtual-keyboard.netlify.app)
+7.  #### Education:
+    - `<TeachMeSkills/>` [<TeachMeSkills/>](https://teachmeskills.by/kursy-programmirovaniya/frontend-html-css-javascript-minsk)
+    - online learning: HTMLacademy, codeacademy.
+8.  #### English:
+    I study at the Fly English school.
